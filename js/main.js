@@ -12,7 +12,6 @@ const wordDisplay = document.querySelector('.word-display');
 const scoreDisplay = document.querySelector('.score');
 const timeDisplay = document.querySelector('.time'); 
 const but = document.querySelector('.but');
-wordInput.disabled  = false;
 init();
 
 function init() {
@@ -27,7 +26,9 @@ function run() {
     if(isPlaying) { return; }
     isPlaying = true;
     time = Game_Time;
+    wordInput.value = null;
     wordInput.focus();
+    score = 0;
     scoreDisplay.innerText = 0;
     timeInterval = setInterval(countDown, 1000);
     checkInterval = setInterval(checkStatus, 50);
