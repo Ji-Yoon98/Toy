@@ -67,7 +67,8 @@ function checkMatch () {
 </details>
 
 <details>
-<summary>새 게임시작 후 정답 입력 시 이전게임 점수 반영 오류 해결 && input 초기화</summary><br>   
+<summary>새 게임시작 후 정답 입력 시 이전게임 점수 반영 오류 해결 && input 초기화</summary><br> 
+                
 ```javascript
 function run() {
     if(isPlaying) { return; }
