@@ -2,12 +2,12 @@
 ### 간단한 영어단어 타이핑 게임 만들기
 
 # 🤖사용기술
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;<img 
-src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS#&logoColor=white">&nbsp;<img 
-src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-0769AD?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;<img 
+src="https://img.shields.io/badge/CSS3-0769AD?style=for-the-badge&logo=CSS#&logoColor=white">&nbsp;<img 
+src="https://img.shields.io/badge/JavaScript-0769AD?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 # 🤖개발환경
-<img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=Visual Studio Code IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-0769AD?style=for-the-badge&logo=Visual Studio Code IDEA&logoColor=white">
 
 # 🤖화면구성 및 기능
 
