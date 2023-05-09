@@ -71,4 +71,4 @@ promotionToggleBtn.addEventListener('click', function () {
   } else {
     promotionEl.classList.remove('hide')
   }
-})
+});
