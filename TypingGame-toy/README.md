@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-0769AD?style=for-the-badge&logo=Visual Studio Code IDEA&logoColor=white">
 
 # 🤖 화면구성 및 기능
-https://user-images.githubusercontent.com/97427387/215437018-eab487a6-ed48-4f60-ae98-723ac25ba986.mp4
+
+https://github.com/parkJi-yun/Toy/assets/97427387/5d035d1f-2066-4dc2-8282-67e905ae7d74
 
 - 게임 로딩중이 먼저 뜨고 시간이 지나면 게임시작 버튼이 활성화 됨
 - 게임 시작 click -> 5초의 시간이 카운트다운 됨
