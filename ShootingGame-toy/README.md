@@ -11,7 +11,7 @@
 
 # 🚀 화면구성 및 기능
 
-<https://user-images.githubusercontent.com/97427387/218166402-7bbd0de6-0ada-43ab-aa9a-47a4c6becc62.mp4>
+https://github.com/parkJi-yun/Toy/assets/97427387/01fdf61d-4f18-4b29-9dad-079cb53f7a2e
 
 - Game Start Click
 - 우주선을 좌우로 조작하여 총알을 쏴서 떨어지는 적군을 물리침 죽으면서 타오름
