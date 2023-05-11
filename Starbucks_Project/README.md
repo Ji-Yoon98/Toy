@@ -11,7 +11,7 @@
 
 # ☕ 화면구성 및 기능
 
-## React.css
+### React.css
 
 브라우저가 가진 기본적인 css 스타일을 초기화하는 방법.
 각 브라우저의 기본 스타일을 초기화
@@ -20,7 +20,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css" />
 ```
 
-## Google Material Icons
+### Google Material Icons
 
 [구글에서 제공하는 머터리얼 아이콘](https://material.io/resources/icons/?style=baseline)을 무료로 사용
 
@@ -36,7 +36,7 @@
 <div class="material-icons">upload</div>
 ```
 
-## GSAP & ScrollToPlugin
+### GSAP & ScrollToPlugin
 
 [GSAP(The GreenSock Animation Platform)](https://greensock.com/gsap/)\
 → 자바스크립트로 제어하는 타임라인 기반의 애니메이션 라이브러리
@@ -68,7 +68,7 @@ gsap.to(window, .7, {
 
 [GSAP Easing](https://greensock.com/docs/v2/Easing)
 
-## Swiper
+### Swiper
 
 [Swiper](https://swiperjs.com/)\
 → 슬라이드 라이브러리
@@ -108,7 +108,7 @@ new Swiper('.swiper-container', {
 });
 ```
 
-## Youtube API
+### Youtube API
 
 [IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko)
 
@@ -146,7 +146,7 @@ function onYouTubePlayerAPIReady() {
 }
 ```
 
-## ScrollMagic
+### ScrollMagic
 
 [ScrollMagic](https://github.com/janpaepke/ScrollMagic)\
 → 스크롤과 요소의 상호 작용을 위한 자바스크립트 라이브러리
@@ -169,7 +169,7 @@ new ScrollMagic
   .addTo(new ScrollMagic.Controller()) // 컨트롤러에 장면을 할당(필수!)
 ```
 
-## Lodash
+### Lodash
 
 [Lodash](https://lodash.com/)\
 → 다양한 유틸리티 기능을 제공하는 자바스크립트 라이브러리
